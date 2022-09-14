@@ -45,9 +45,6 @@ docs/
 # translation temp files
 po/*~
 
-# ignore data
-data/*.RData
-
 
 ### R.Bookdown Stack ###
 # R package: bookdown caching files
